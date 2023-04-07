@@ -17,7 +17,7 @@
           <p>I'm Laurie.</p>
           <p class="mb-8">I'm a freelance Web Developer.</p>
 
-          <div class="flex justify-around align-baseline w-[75%]">
+          <div class="flex justify-around align-baseline">
             <a href="mailto:lpoulter1984@gmail.com"
               ><MailIcon
                 class="fill-white hover:opacity-80"
