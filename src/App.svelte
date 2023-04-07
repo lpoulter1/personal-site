@@ -20,7 +20,7 @@
           <div class="flex justify-around align-baseline">
             <a href="mailto:lpoulter1984@gmail.com"
               ><MailIcon
-                class="fill-white hover:opacity-80"
+                class="fill-white hover:opacity-80 animate__shakeY"
                 width={42}
                 height={42}
               />
