@@ -10,7 +10,7 @@
     <div class="flex justify-center items-center h-full">
       <div class="flex flex-col sm:flex-row gap-4 items-center">
         <div>
-          <img src={Logo} class="h-60 w-auto" alt="Laurie Poulter" />
+          <img src={Logo} alt="Laurie Poulter" width="240px" height="240px" />
         </div>
         <div class="text-2xl leading-relaxed w-60 sm:w-auto">
           <p class="mb-4">Hello !</p>
